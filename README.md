@@ -33,20 +33,14 @@ Se propone la implementación de un chatbot que automatice la validación de sol
 
 1. Clonar el repositorio:
 
-bash
-git clone URL_DEL_REPOSITORIO
 
 
 2. Ingresar a la carpeta:
 
-bash
-cd BorPac-Vacaciones-Bot
 
 
 3. Ejecutar:
 
-bash
-python main.py
 
 
 ## Integrantes
