@@ -32,14 +32,15 @@ Se propone la implementación de un chatbot que automatice la validación de sol
 ## Ejecución
 
 1. Clonar el repositorio:
-
+   gitdesktop clonar el repositorio usando el url
 
 
 2. Ingresar a la carpeta:
-
-
+   Ingresar a la carpeta Script
+   
 
 3. Ejecutar:
+   Ejecutar el codigo en VS Code
 
 
 
