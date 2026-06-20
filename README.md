@@ -33,13 +33,14 @@ Se propone la implementación de un chatbot que automatice la validación de sol
 
 1. Clonar el repositorio:
    gitdesktop clonar el repositorio usando el url
+   https://github.com/palacioivan-rgb/BorPac-SRL-TPI
 
 
-2. Ingresar a la carpeta:
+3. Ingresar a la carpeta:
    Ingresar a la carpeta Script
    
 
-3. Ejecutar:
+4. Ejecutar:
    Ejecutar el codigo en VS Code
 
 
